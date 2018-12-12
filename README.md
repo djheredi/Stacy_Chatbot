@@ -1,2 +1,5 @@
 # Stacy_Chatbot
 Basic food place finding assistant.
+This project constists of a chatbot that assists its user with finding a place to eat in San Diego by taking user imput specifying a type of food. Some of the places available range from Italian food to Korean and even dessert. Images were implemented to be displayed to the user as a way to aide their decision making process. For example, a user might be leaning towards Italian food but after seeing a photo of a different cuisine their decision can be altered and in doing so either reinforced or changed to something more desired.
+
+Stacy, the food-place assistant, is geared toward an audience of younger populations who struggle with making a decision about where to eat. Due to that same logic, its a bot useful for anybody in the same position of wanting to narrow their options and quickly find where to grab a bite or satisfy a craving. Stacy was built with a lot of help from other programmers and is not fully developed thus there is indeed much space for improvement and room for future continuation. Whether that lies in its limited language, food options, images, and use of functions.
